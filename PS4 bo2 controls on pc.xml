@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DS4Windows Configuration Data. 29/08/2021 23:34:21 -->
+
+<DS4Windows>
+  <flushHIDQueue>True</flushHIDQueue>
+  <idleDisconnectTimeout>300</idleDisconnectTimeout>
+  <Color>0,0,255</Color>
+  <RumbleBoost>100</RumbleBoost>
+  <ledAsBatteryIndicator>False</ledAsBatteryIndicator>
+  <FlashType>0</FlashType>
+  <flashBatteryAt>0</flashBatteryAt>
+  <touchSensitivity>100</touchSensitivity>
+  <LowColor>255,0,0</LowColor>
+  <ChargingColor>255,255,255</ChargingColor>
+  <FlashColor>0,0,0</FlashColor>
+  <touchpadJitterCompensation>True</touchpadJitterCompensation>
+  <lowerRCOn>False</lowerRCOn>
+  <tapSensitivity>0</tapSensitivity>
+  <doubleTap>False</doubleTap>
+  <scrollSensitivity>0</scrollSensitivity>
+  <LeftTriggerMiddle>0</LeftTriggerMiddle>
+  <RightTriggerMiddle>0</RightTriggerMiddle>
+  <ButtonMouseSensitivity>25</ButtonMouseSensitivity>
+  <Rainbow>0</Rainbow>
+  <LSDeadZone>0</LSDeadZone>
+  <RSDeadZone>0</RSDeadZone>
+  <SXDeadZone>0.25</SXDeadZone>
+  <SZDeadZone>0.25</SZDeadZone>
+  <Sensitivity>1|1|1|1|1|1</Sensitivity>
+  <ChargingType>0</ChargingType>
+  <MouseAcceleration>True</MouseAcceleration>
+  <LaunchProgram>
+  </LaunchProgram>
+  <DinputOnly>False</DinputOnly>
+  <StartTouchpadOff>False</StartTouchpadOff>
+  <UseTPforControls>True</UseTPforControls>
+  <UseSAforMouse>False</UseSAforMouse>
+  <SATriggers>-1</SATriggers>
+  <GyroSensitivity>100</GyroSensitivity>
+  <GyroInvert>0</GyroInvert>
+  <LSCurve>0</LSCurve>
+  <RSCurve>0</RSCurve>
+  <ProfileActions>Disconnect Controller</ProfileActions>
+  <Control>
+    <Button>
+      <LYNeg>Unbound</LYNeg>
+    </Button>
+  </Control>
+  <ShiftControl />
+</DS4Windows>
