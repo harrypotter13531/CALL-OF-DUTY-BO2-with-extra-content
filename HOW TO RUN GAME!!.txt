@@ -1,0 +1,5 @@
+To play game, run any of the t6 exe's. t6sp for single player, t6zm for zombies, etc
+
+If you get any missing dll errors, go inside the _Redist folder and install dxwebsetup
+
+For more FREE PC games, visit steamunlocked.com

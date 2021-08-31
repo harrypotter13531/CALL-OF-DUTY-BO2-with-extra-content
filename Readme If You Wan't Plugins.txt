@@ -1,0 +1,1 @@
+Unzip the plugins zip into the Plugins folder.
